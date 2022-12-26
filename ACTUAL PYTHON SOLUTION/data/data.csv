@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,merchant,location,fraud
+1,1001,100.0,Acme Inc.,New York,0
+2,1002,200.0,Acme Inc.,New York,0
+3,1003,300.0,Acme Inc.,Paris,1
+4,1004,400.0,Acme Inc.,London,0
+5,1005,500.0,Acme Inc.,New York,0
+6,1006,600.0,Acme Inc.,Paris,1
+7,1007,700.0,Acme Inc.,New York,0
+8,1008,800.0,Acme Inc.,London,0
+9,1009,900.0,Acme Inc.,Paris,1
+10,1010,1000.0,Acme Inc.,New York,0

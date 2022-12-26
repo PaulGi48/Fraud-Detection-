@@ -1,0 +1,16 @@
+/* style.css */
+pre {
+    white-space: pre-wrap;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5em;
+  }
+  
+  code {
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    padding: 0.2em;
+  }
+  
