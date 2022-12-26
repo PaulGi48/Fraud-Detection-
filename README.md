@@ -1,4 +1,8 @@
 # Fraud-Detection
+
+![Alt text](img/blue_home3.png)
+
+
 Build a fraud detection software
 This is a submission for Halogen'22 Cyber Competition
 This is my python model of a fraud detection python that detects fraud in dataset(s)
