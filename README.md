@@ -17,6 +17,3 @@ NOTE
 
 - Fraud detection is the process of identifying and preventing fraudulent activities or transactions.
 - A fraud detection model is a complex task that requires a thorough understanding of machine learning techniques, data analysis, and web programming languages.
-
-Resources ; 
-https://twitter.com/zainmobes/status/1617616043102375936?s=46&t=2W17hlH_uxanpMLOrpVfuA
